@@ -1,0 +1,2 @@
+301:
+  ^/members\/\?token=([^&]*)&action=signin&r=([^&]*)$: $2/members\/\?token=$1&action=signin
